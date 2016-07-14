@@ -1,0 +1,12 @@
+git log command:-
+--------------------
+[command-git log]
+
+it give list of commits which we have commit in past
+it will give commit id ,commit date,commit date,commit author
+
+pushing changes to github(how to push local repository file to remote repository fil):-
+--------------------------
+commited file we have puish to remote repository
+
+
